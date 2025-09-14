@@ -4,6 +4,9 @@ Integrantes do grupo:
  - Guilherme Witte Rambo, 203162
  - Diogo Godoy Brignoni, 201027
 
+Tópico escolhido:
+ - Tópico 1: Gerenciamento de Memória (Alocação Contígua e Paginação)
+
 Esse é o nosso trabalho sobre Gerenciamento de Memória.
 Implementamos os modelos de: "Alocação Contígua Dinâmica" e "Paginação Pura".
 
